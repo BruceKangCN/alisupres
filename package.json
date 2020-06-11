@@ -1,14 +1,14 @@
 {
   "name": "alisupereso",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aliyun Super Resolution（electron integrated）",
   "main": "back/index.js",
   "scripts": {
     "start": "electron .",
-    "package": "electron-packager . part --platform=win32 --arch=x64 "
+    "package": "electron-packager . part --platform=win32 --arch=x64 --overwrite"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "yqjiang",
+  "license": "WTFPL",
   "devDependencies": {
     "electron": "^9.0.3"
   },
