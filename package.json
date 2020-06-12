@@ -1,6 +1,6 @@
 {
   "name": "alisupereso",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Aliyun Super Resolution（electron integrated）",
   "main": "back/index.js",
   "scripts": {
